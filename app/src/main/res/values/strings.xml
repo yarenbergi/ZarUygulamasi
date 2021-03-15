@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ders2</string>
+    <string name="sayi">SAYI</string>
+    <string name="button">Button</string>
+    <string name="todo">TODO</string>
+    <string name="tem_zle">TEMİZLE</string>
+    <string name="zar_at">ZAR AT</string>
+</resources>
